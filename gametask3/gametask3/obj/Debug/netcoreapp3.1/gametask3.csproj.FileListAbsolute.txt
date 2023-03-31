@@ -1,0 +1,14 @@
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.csproj.AssemblyReference.cache
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.AssemblyInfoInputs.cache
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.AssemblyInfo.cs
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.csproj.CoreCompileInputs.cache
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\bin\Debug\netcoreapp3.1\gametask3.exe
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\bin\Debug\netcoreapp3.1\gametask3.deps.json
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\bin\Debug\netcoreapp3.1\gametask3.runtimeconfig.json
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\bin\Debug\netcoreapp3.1\gametask3.runtimeconfig.dev.json
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\bin\Debug\netcoreapp3.1\gametask3.dll
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\bin\Debug\netcoreapp3.1\gametask3.pdb
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.dll
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.pdb
+C:\Users\Durak\Desktop\gameTask\gametask3\gametask3\obj\Debug\netcoreapp3.1\gametask3.genruntimeconfig.cache
